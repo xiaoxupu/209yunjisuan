@@ -1,0 +1,5 @@
+*.log
+123? .log
+/error.log
+**/java/
+!/error.log
